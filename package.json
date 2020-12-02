@@ -1,0 +1,19 @@
+{
+  "name": "emascrip",
+  "version": "1.0.0",
+  "description": "Practicas de ecmascrip",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/EnfermeraJoy/ecmascript_practica.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EnfermeraJoy/ecmascript_practica/issues"
+  },
+  "homepage": "https://github.com/EnfermeraJoy/ecmascript_practica#readme"
+}
